@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ela</h1>
 
-<p align="left"> <a href="https://twitter.com/elayagmur98" target="blank"><img src="https://img.shields.io/twitter/follow/elayagmur98?logo=twitter&style=for-the-badge" alt="elayagmur98" /></a> </p>
-
 - 🔭 I’m currently working on **Web Front-End Development💻🤖**
 
 - 🌱 I’m currently learning **Html ,css, Js, Vue, Nunjucks**
