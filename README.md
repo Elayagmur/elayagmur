@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **C++ and c.**
 
-- 📫 How to reach me **18290744@ogrenci.ankara.edu.tr**
+- 📫 How to reach me **elayagmur18290744@gmail.com**
 
 - ⚡ Fun fact **I think i am funny :)**
 
